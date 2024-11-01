@@ -78,7 +78,7 @@ This will create a local copy of the repository on your machine.
 You can navigate to the relevant part directory and read the chunk files for further analysis. The structure allows you to process tweets in manageable chunks, facilitating easier handling of large datasets.
 
 ## Contact 
-Please email ashwinb@usc.edu
+Please email ashwinba@usc.edu
 
 
 ## Memos
