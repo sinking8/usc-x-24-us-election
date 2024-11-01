@@ -80,12 +80,5 @@ You can navigate to the relevant part directory and read the chunk files for fur
 ## Contact 
 Please email ashwinba@usc.edu
 
-
 ## Memos
 Check out our memo that provides a deeper insight into the dataset: Link
-
-
-## License
-
-This repository is licensed under [MIT License](LICENSE).
-
