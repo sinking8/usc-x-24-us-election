@@ -78,5 +78,8 @@ You can navigate to the relevant part directory and read the chunk files for fur
 ## Contact 
 Please email ashwinba@usc.edu
 
+## Data usage agreement
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). By using this dataset, you agree to abide by the stipulations in the license and cite the following manuscript:
+
 ## Memos
 Check out our memo that provides a deeper insight into the dataset: Link
