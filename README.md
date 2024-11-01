@@ -1,7 +1,5 @@
 # USC X 24 US Election Twitter/X Dataset
-
-This repository contains multiple directories named `part_{part_number}`, where each part consists of chunk files prefixed with the timeline. Each chunk file contains 50,000 tweets related to the US election.
-
+The repository contains multiple directories named `part_{part_number}`, where each directory consists of chunk files prefixed with a timeline. Each chunk file contains 50,000 tweets related to the US election. Specifically, each subdirectory labeled with the prefix "part" contains 20 chunk files, resulting in a total of 1,000,000 tweets per part.
 ## Repository Structure
 
 ```
