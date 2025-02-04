@@ -70,7 +70,7 @@ This will create a local copy of the repository on your machine.
 | type                            | object                | Type of tweet (e.g., original, reply, retweet,ad).                 |
 | user_id                         | float64              | ID of the user as a float.                                       |
 
-## Note
+## Note (Updated as of 04/02/2025)
 - Ad tweets contain only text, with all other fields remaining as NaN.
 
 ## Usage
