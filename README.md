@@ -67,9 +67,12 @@ This will create a local copy of the repository on your machine.
 | cash_app_handle                  | object                | Cash App handle mentioned in the tweet, if applicable.           |
 | user                             | object                | User information or metadata.                                     |
 | date                             | object                | Date of the tweet.                                                |
-| _type                            | object                | Type of tweet (e.g., original, reply, retweet,ad).                 |
+| type                            | object                | Type of tweet (e.g., original, reply, retweet,ad).                 |
 | epoch_dt                        | datetime64[ns]       | Date and time in datetime format derived from epoch.              |
 | user_id                         | float64              | ID of the user as a float.                                       |
+
+## Note
+- Ad tweets contain only text, with all other fields remaining as NaN.
 
 ## Usage
 
