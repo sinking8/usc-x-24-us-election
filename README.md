@@ -72,7 +72,7 @@ This will create a local copy of the repository on your machine.
 
 ## Note (Updated as of 13/02/2025)
 - Ad tweets contain only text, with all other fields remaining as NaN.
-- Data Available (May 2024 - November 2024)
+- Data Available (1st May 2024 - 30th November 2024)
 
 
 ## Usage
