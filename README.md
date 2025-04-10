@@ -34,7 +34,7 @@ This will create a local copy of the repository on your machine.
 - Each directory `part_{part_number}` contains chunk files that are prefixed with the timeline name.
 - Each chunk file consists of **50,000 tweets** related to the US election, allowing for extensive data analysis and processing.
 
-## Data Schema (Updated as of 04/02/2025)
+## Data Schema (Updated as of 10/04/2025)
 
 | **Field Name**                  | **Data Type**          | **Description**                                                     |
 |----------------------------------|-----------------------|---------------------------------------------------------------------|
